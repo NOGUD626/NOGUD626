@@ -23,9 +23,12 @@
 
 ## 🛠️ 主な技術スタック
 
-### Top Languages
+### よく使う言語
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOGUD626&layout=compact&theme=github_dark&hide_border=true)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NOGUD626&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NOGUD626&theme=github_dark" height="180" />
+</p>
 
 ### 言語
 
@@ -70,9 +73,11 @@
 
 ## 📊 コミット状況
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NOGUD626&theme=github_dark&show_icons=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NOGUD626&theme=github-dark&hide_border=true)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NOGUD626&theme=github_dark" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=NOGUD626&theme=github-dark&hide_border=true" height="180" />
+</p>
 
-## 🏆 GitHub 上での活動
+## 🕒 活動時間帯
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NOGUD626&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NOGUD626&theme=github_dark&utcOffset=9)
