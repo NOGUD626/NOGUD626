@@ -3,7 +3,7 @@
 ![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NOGUD626&theme=github_dark)
 
 > [!NOTE]
-> - 都内 IT 企業で **バックエンド / クラウドインフラ** を中心に活動しているエンジニアです。
+> - 都内 IT 企業で **バックエンド / インフラ（クラウド・オンプレ両方）** を中心に活動しているエンジニアです。
 > - 副業ではマラソン計測事業を引き継いで会社を運営しており、計測システムの内製化と DX 推進を行っています。
 > - 「**作る** と **届ける** の両方を経験してきた」のが自分の強みで、技術的な意思決定がビジネスに直結するポジションで働くことに関心があります。
 > - Claude などの AI を **「軸は人間、実装は協働」** で使い倒す開発スタイルが特徴です。開発速度を体感 3 倍に引き上げ、本業と副業を両立しています。
@@ -17,7 +17,7 @@
 
 - **バックエンド**: 大規模メディア（月間 ~1.5 億 PV）のクラウド移行・DB 移行・API 刷新
 - **新規事業開発**: 受託コードの内製化、Vue + Laravel での管理画面・予約システム構築
-- **インフラ / DevOps**: EC2 → ECS/Fargate 移行、CI/CD パイプライン整備、Docker 化、コスト 30% 削減
+- **インフラ / DevOps**: オンプレ → AWS ECS/Fargate のクラウド移行、Cisco/FortiGate を扱うネットワーク運用、CI/CD パイプライン整備、Docker 化、コスト 30% 削減
 - **業務 DX**: n8n + GAS + API 連携による労務・バックオフィス業務の自動化
 - **副業（会社運営）**: マラソン計測システムの完全内製化、QR 受付・結果速報システム開発
 
@@ -50,13 +50,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?logo=mysql&style=flat)
 ![SQLite](https://img.shields.io/badge/sqlite-000.svg?logo=sqlite&style=flat)
 
-### インフラ / DevOps
+### インフラ / DevOps（クラウド・オンプレ両対応）
 
 ![AWS](https://img.shields.io/badge/aws-000.svg?logo=amazonwebservices&style=flat)
+![Azure](https://img.shields.io/badge/azure-000.svg?logo=microsoftazure&style=flat)
 ![Docker](https://img.shields.io/badge/docker-000.svg?logo=docker&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-000.svg?logo=githubactions&style=flat)
 ![Ansible](https://img.shields.io/badge/ansible-000.svg?logo=ansible&style=flat)
 ![nginx](https://img.shields.io/badge/nginx-000.svg?logo=nginx&style=flat)
+![Cisco](https://img.shields.io/badge/cisco-000.svg?logo=cisco&style=flat)
+![Linux](https://img.shields.io/badge/linux-000.svg?logo=linux&logoColor=white&style=flat)
 
 ### 自動化 / データ / その他
 
